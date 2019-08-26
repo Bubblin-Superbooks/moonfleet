@@ -76,12 +76,8 @@
     "innerHtml": "Aged 15, who was killed by a shot fired from the <em>Elector</em> Schooner, 21 June 1757."
   },
   {
-    "tag": "p",
-    "innerHtml": "Of life bereft (by fell design),<br>  I mingle with my fellow clay.<br>On God's protection I recline<br>  To save me in the Judgement Day."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "There too must you, cruel man, appear,<br>  Repent ere it be all too late;<br>Or else a dreadful sentence fear,<br>  For God will sure revenge my fate."
+    "tag": "pre",
+    "innerHtml": "<code>Of life bereft (by fell design),  \n  I mingle with my fellow clay.  \nOn God's protection I recline  \n  To save me in the Judgement Day.  \n\nThere too must you, cruel man, appear,  \n  Repent ere it be all too late;  \nOr else a dreadful sentence fear,  \n  For God will sure revenge my fate.  </code>"
   },
   {
     "tag": "p",
@@ -168,16 +164,16 @@
     "innerHtml": "The Floods"
   },
   {
-    "tag": "p",
-    "innerHtml": "Then banks came down with ruin and rout,<br>Then beaten spray flew round about,<br>Then all the mighty floods were out,<br>  And all the world was in the sea <em>—Jean Ingelow</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Then banks came down with ruin and rout,  \nThen beaten spray flew round about,  \nThen all the mighty floods were out,  \n  And all the world was in the sea \n                 —_Jean Ingelow_</code>"
   },
   {
     "tag": "p",
     "innerHtml": "On the third of November, a few days after this visit to the Why Not?, the wind, which had been blowing from the south-west, began about four in the afternoon to rise in sudden strong gusts. The rooks had been pitch-falling all the morning, so we knew that bad weather was due; and when we came out from the schooling that Mr. Glennie gave us in the hall of the old almshouses, there were wisps of thatch, and even stray tiles, flying from the roofs, and the children sang:"
   },
   {
-    "tag": "p",
-    "innerHtml": "Blow wind, rise storm,<br>Ship ashore before morn."
+    "tag": "pre",
+    "innerHtml": "<code>Blow wind, rise storm,  \nShip ashore before morn.  </code>"
   },
   {
     "tag": "p",
@@ -253,7 +249,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "'My son,' he answered, 'all that I have been able to gather is, that this Colonel John Mohune (foolishly called Blackbeard was the first to impair the family fortunes by his excesses, and even let the almshouses fall to ruin, and turned the poor away. Unless report strangely belies him, he was an evil man, and besides numberless lesser crimes, had on his hands the blood of a faithful servant, whom he made away with because chance had brought to the man's ears some guilty secret of the master. Then, at the end of his life, being filled with fear and remorse (as must always happen with evil livers at the last), he sent for Rector Kindersley of Dorchester to confess him, though a Protestant, and wished to make amends by leaving that treasure so ill-gotten from King Charles (which was all that he had to leave) for the repair and support of the almshouses. He made a last will, which I have seen, to this effect, but without describing the treasure further than to call it a diamond, nor saying where it was to be found. Doubtless he meant to get it himself, sell it, and afterwards apply the profit to his good purpose, but before he could do so death called him suddenly to his account. So men say that he cannot rest in his grave, not having made even so tardy a reparation, and never will rest unless the treasure is found and spent upon the poor.')"
+    "innerHtml": "'My son,' he answered, 'all that I have been able to gather is, that this Colonel John Mohune (foolishly called Blackbeard was the first to impair the family fortunes by his excesses, and even let the almshouses fall to ruin, and turned the poor away. Unless report strangely belies him, he was an evil man, and besides numberless lesser crimes, had on his hands the blood of a faithful servant, whom he made away with because chance had brought to the man's ears some guilty secret of the master. Then, at the end of his life, being filled with fear and remorse (as must always happen with evil livers at the last), he sent for Rector Kindersley of Dorchester to confess him, though a Protestant, and wished to make amends by leaving that treasure so ill-gotten from King Charles (which was all that he had to leave for the repair and support of the almshouses. He made a last will, which I have seen, to this effect, but without describing the treasure further than to call it a diamond, nor saying where it was to be found. Doubtless he meant to get it himself, sell it, and afterwards apply the profit to his good purpose, but before he could do so death called him suddenly to his account. So men say that he cannot rest in his grave, not having made even so tardy a reparation, and never will rest unless the treasure is found and spent upon the poor.') )"
   },
   {
     "tag": "p",
@@ -304,8 +300,8 @@
     "innerHtml": "A Discovery"
   },
   {
-    "tag": "p",
-    "innerHtml": "Some bold adventurers disdain<br>The limits of their little reign,<br>  And unknown regions dare descry;<br>Still, as they run, they look behind,<br>They hear a voice in every wind<br>  And snatch a fearful joy—<em>Gray</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Some bold adventurers disdain  \nThe limits of their little reign,  \n  And unknown regions dare descry;  \nStill, as they run, they look behind,  \nThey hear a voice in every wind  \n  And snatch a fearful joy—_Gray_  </code>"
   },
   {
     "tag": "p",
@@ -385,7 +381,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "As I walked round this stack of casks my foot struck sharply on the edge of a butt, which must have been near empty, and straightway came from it the same hollow, booming sound (only fainter which had so frightened us in church that Sunday morning. So it was the casks, and not the coffins, that had been knocking one against another; and I was pleased with myself, remembering how I had reasoned that coffin-wood could never give that booming sound.)"
+    "innerHtml": "As I walked round this stack of casks my foot struck sharply on the edge of a butt, which must have been near empty, and straightway came from it the same hollow, booming sound (only fainter which had so frightened us in church that Sunday morning. So it was the casks, and not the coffins, that had been knocking one against another; and I was pleased with myself, remembering how I had reasoned that coffin-wood could never give that booming sound. )"
   },
   {
     "tag": "p",
@@ -397,7 +393,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Soon I wished I had not come at all, considering that the diamond had vanished into air, and it was a sad thing to be cabined with so many dead men. It moved me, too, to see pieces of banners and funeral shields, and even shreds of wreaths that dear hearts had put there a century ago, now all ruined and rotten—some still clinging, water-sodden, to the coffins, and some trampled in the sand of the floor. I had spent some time in this bootless search, and was resolved to give up further inquiry and foot it home, when the clock in the tower struck midnight. Surely never was ghostly hour sounded in more ghostly place. Moonfleet peal was known over half the county, and the finest part of it was the clock bell. 'Twas said that in times past (when, perhaps, the chimes were rung more often than now the voice of this bell had led safe home boats that were lost in the fog; and this night its clangour, mellow and profound, reached even to the vault. Bim-bom it went, bim-bom, twelve heavy thuds that shook the walls, twelve resonant echoes that followed, and then a purring and vibration of the air, so that the ear could not tell when it ended.)"
+    "innerHtml": "Soon I wished I had not come at all, considering that the diamond had vanished into air, and it was a sad thing to be cabined with so many dead men. It moved me, too, to see pieces of banners and funeral shields, and even shreds of wreaths that dear hearts had put there a century ago, now all ruined and rotten—some still clinging, water-sodden, to the coffins, and some trampled in the sand of the floor. I had spent some time in this bootless search, and was resolved to give up further inquiry and foot it home, when the clock in the tower struck midnight. Surely never was ghostly hour sounded in more ghostly place. Moonfleet peal was known over half the county, and the finest part of it was the clock bell. 'Twas said that in times past (when, perhaps, the chimes were rung more often than now the voice of this bell had led safe home boats that were lost in the fog; and this night its clangour, mellow and profound, reached even to the vault. Bim-bom it went, bim-bom, twelve heavy thuds that shook the walls, twelve resonant echoes that followed, and then a purring and vibration of the air, so that the ear could not tell when it ended. )"
   },
   {
     "tag": "p",
@@ -420,8 +416,8 @@
     "innerHtml": "In The Vault"
   },
   {
-    "tag": "p",
-    "innerHtml": "Let us hob and nob with Death—<em>Tennyson</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p>Let us hob and nob with Death—<em>Tennyson</em></p>"
   },
   {
     "tag": "p",
@@ -656,8 +652,8 @@
     "innerHtml": "The Rescue"
   },
   {
-    "tag": "p",
-    "innerHtml": "Shades of the dead, have I not heard your voices<br>Rise on the night-rolling breath of the gale?—<em>Byron</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p>Shades of the dead, have I not heard your voices<br>Rise on the night-rolling breath of the gale?—<em>Byron</em>  </p>"
   },
   {
     "tag": "p",
@@ -753,11 +749,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>               Surely after all,  </code>"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "The noblest answer unto such<br>Is perfect stillness when they brawl—<em>Tennyson</em>"
+    "innerHtml": "<code>   Surely after all,  \nThe noblest answer unto such  \nIs perfect stillness when they brawl—_Tennyson_  </code>"
   },
   {
     "tag": "p",
@@ -844,8 +836,8 @@
     "innerHtml": "An Auction"
   },
   {
-    "tag": "p",
-    "innerHtml": "What if my house be troubled with a rat,<br>And I be pleased to give ten thousand ducats<br>To have it baned—<em>Shakespeare</em>"
+    "tag": "pre",
+    "innerHtml": "<code>What if my house be troubled with a rat,  \nAnd I be pleased to give ten thousand ducats  \nTo have it baned—_Shakespeare_  </code>"
   },
   {
     "tag": "p",
@@ -972,8 +964,8 @@
     "innerHtml": "The Landing"
   },
   {
-    "tag": "p",
-    "innerHtml": "Let my lamp at midnight hour<br>Be seen in some high lonely tower—<em>Milton</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Let my lamp at midnight hour  \nBe seen in some high lonely tower—_Milton_  </code>"
   },
   {
     "tag": "p",
@@ -1160,8 +1152,8 @@
     "innerHtml": "A Judgement"
   },
   {
-    "tag": "p",
-    "innerHtml": "Let them fight it out, friend. Things have gone too far,<br>God must judge the couple: leave them as they are—<em>Browning</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Let them fight it out, friend. Things have gone too far,  \nGod must judge the couple: leave them as they are—_Browning_  </code>"
   },
   {
     "tag": "p",
@@ -1297,11 +1289,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>        … How fearful  </code>"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "And dizzy 'tis to cast one's eyes so low!  \n   … I'll look no more<br>Lest my brain turn—<em>Shakespeare</em>"
+    "innerHtml": "<code>   … How fearful  \nAnd dizzy 'tis to cast one's eyes so low!  \n   … I'll look no more  \nLest my brain turn—_Shakespeare_  </code>"
   },
   {
     "tag": "p",
@@ -1592,8 +1580,8 @@
     "innerHtml": "The Sea-cave"
   },
   {
-    "tag": "p",
-    "innerHtml": "The dull loneness, the black shade,<br>That these hanging vaults have made:<br>The strange music of the waves<br>Beating on these hollow caves—<em>Wither</em>"
+    "tag": "pre",
+    "innerHtml": "<code>The dull loneness, the black shade,  \nThat these hanging vaults have made:  \nThe strange music of the waves  \nBeating on these hollow caves—_Wither_  </code>"
   },
   {
     "tag": "p",
@@ -1696,8 +1684,8 @@
     "innerHtml": "A Funeral"
   },
   {
-    "tag": "p",
-    "innerHtml": "How he lies in his rights of a man!  \nDeath has done all death can—<em>Browning</em>"
+    "tag": "pre",
+    "innerHtml": "<code>How he lies in his rights of a man!  \nDeath has done all death can—_Browning_  </code>"
   },
   {
     "tag": "p",
@@ -1732,12 +1720,12 @@
     "innerHtml": "'Ah!' said Ratsey, 'I was shrammed with wet and cold, and half-dead with this baffling wind. It is a blessed thing a fire,' and he unbuttoned his pilot-coat, 'and needful now, if ever. My soul is very low, lad, for this place has strange memories for me; and I recollect, forty years ago (when I was just a boy like thee), old lander Jordan's gang, and I among them, were in this very cave on such another night. I was new to the trade then, as thou might be, and could not sleep for noise of wind and sea. And in the small hours of an autumn morning, as I lay here, just where we lie now, I heard such wailing cries above the storm, ay, and such shrieks of women, as made my blood run cold and have not yet forgot them. And so I woke the gang who were all deep asleep as seasoned contrabandiers should be; but though we knew that there were fellow-creatures fighting for their lives in the seething flood beneath us, we could not stir hand or foot to save them, for nothing could be seen for rain and spray, and 'twas not till next morning that we learned the <em>Florida</em> had foundered just below with every soul on board. Ay, 'tis a queer life, and you and Block are in a queer strait now, and that is what I came to tell you. See here.' And he took out of his pocket an oblong strip of printed paper:"
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ \\ \\ \\ \\"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "h3",
-    "innerHtml": "G.r."
+    "tag": "p",
+    "innerHtml": "- G.R."
   },
   {
     "tag": "p",
@@ -1748,16 +1736,8 @@
     "innerHtml": "Whereas it hath been humbly represented to the King that on Friday, the night of the 16th of April last, THOMAS MASKEW, a Justice of the Peace, was most inhumanly murdered at Hoar Head, a lone place in the Parish of Chaldron, in the County of Dorset, by one ELZEVIR BLOCK and one JOHN TRENCHARD, both of the Parish of Moonfleet, in the aforesaid County: His Majesty, for the better discovering and bringing to Justice these Persons, is pleased to promise His Most Gracious PARDON to any of the Persons concerned therein, except the Persons who actually committed the said Murder; and, as a further Encouragement, a REWARD OF FIFTY POUNDS to any Person who shall furnish such INFORMATION as shall lead to the APPREHENSION of the said ELZEVIR BLOCK, and a REWARD of TWENTY POUNDS to any Person who shall furnish such INFORMATION as shall lead to the APPREHENSION of the said JOHN TRENCHARD. Such INFORMATION to be given to ME, or to the GOVERNOUR of His MAJESTY'S GAOL in Dorchester."
   },
   {
-    "tag": "h3",
-    "innerHtml": "Holdernesse."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\\ \\ \\ \\ \\"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "'There—that's the bill,' he said; 'and a vastly fine piece it is, and yet I wish that 'twas played with other actors. Now, in Moonfleet there is none that know your hiding-place, and not a man, nor woman either, that would tell if they knew it ten times over. But fifty pounds for Elzevir, and twenty pounds for an empty pumpkin-top like thine, is a fair round sum, and there are vagabonds about this countryside scurvy enough to try to earn it. And some of these have set the Excisemen on <em>my</em> track, with tales of how it is I that know where you lie hid, and bring you meat and drink. So it is that I cannot stir abroad now, no, not even to the church o' Sundays, without having some rogue lurking at my heels to watch my movements. And that is why I chose such a night to come hither, knowing these knaves like dry skins, but never thinking that the wind would blow like this. I am come to tell Block that 'tis not safe for me to be so much in Purbeck, and that I dare no longer bring food or what not, or these man-hounds will scent you out. Your leg is sound again, and 'tis best to be flitting while you may, and there's the <em>Éperon d'Or,</em> and Chauvelais to give you welcome on the other side.'"
+    "tag": "blockquote",
+    "innerHtml": "<p>HOLDERNESSE.\n'There—that's the bill,' he said; 'and a vastly fine piece it is, and yet I wish that 'twas played with other actors. Now, in Moonfleet there is none that know your hiding-place, and not a man, nor woman either, that would tell if they knew it ten times over. But fifty pounds for Elzevir, and twenty pounds for an empty pumpkin-top like thine, is a fair round sum, and there are vagabonds about this countryside scurvy enough to try to earn it. And some of these have set the Excisemen on <em>my</em> track, with tales of how it is I that know where you lie hid, and bring you meat and drink. So it is that I cannot stir abroad now, no, not even to the church o' Sundays, without having some rogue lurking at my heels to watch my movements. And that is why I chose such a night to come hither, knowing these knaves like dry skins, but never thinking that the wind would blow like this. I am come to tell Block that 'tis not safe for me to be so much in Purbeck, and that I dare no longer bring food or what not, or these man-hounds will scent you out. Your leg is sound again, and 'tis best to be flitting while you may, and there's the <em>Éperon d'Or,</em> and Chauvelais to give you welcome on the other side.'</p>"
   },
   {
     "tag": "p",
@@ -1940,8 +1920,8 @@
     "innerHtml": "An Interview"
   },
   {
-    "tag": "p",
-    "innerHtml": "No human creature stirred to go or come,<br>  No face looked forth from shut or open casement,<br>No chimney smoked, there was no sign of home<br>  From parapet to basement—<em>Hood</em>"
+    "tag": "pre",
+    "innerHtml": "<code>No human creature stirred to go or come,  \n  No face looked forth from shut or open casement,  \nNo chimney smoked, there was no sign of home  \n  From parapet to basement—_Hood_  </code>"
   },
   {
     "tag": "p",
@@ -2108,8 +2088,8 @@
     "innerHtml": "The Well-house"
   },
   {
-    "tag": "p",
-    "innerHtml": "For those thou mayest not look upon<br>Are gathering fast round the yawning stone—<em>Scott</em>"
+    "tag": "pre",
+    "innerHtml": "<code>For those thou mayest not look upon  \nAre gathering fast round the yawning stone—_Scott_  </code>"
   },
   {
     "tag": "p",
@@ -2252,8 +2232,8 @@
     "innerHtml": "The Well"
   },
   {
-    "tag": "p",
-    "innerHtml": "The grave doth gape and doting death is near—<em>Shakespeare</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p>The grave doth gape and doting death is near—<em>Shakespeare</em></p>"
   },
   {
     "tag": "p",
@@ -2408,8 +2388,8 @@
     "innerHtml": "The Jewel"
   },
   {
-    "tag": "p",
-    "innerHtml": "All that glisters is not gold—<em>Shakespeare</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p>All that glisters is not gold—<em>Shakespeare</em></p>"
   },
   {
     "tag": "p",
@@ -2720,8 +2700,8 @@
     "innerHtml": "At Ymeguen"
   },
   {
-    "tag": "p",
-    "innerHtml": "As if a thief should steal a tainted vest,<br>Some dead man's spoil, and sicken of his pest—<em>Hood</em>"
+    "tag": "pre",
+    "innerHtml": "<code>As if a thief should steal a tainted vest,  \nSome dead man's spoil, and sicken of his pest—_Hood_  </code>"
   },
   {
     "tag": "p",
@@ -2808,8 +2788,8 @@
     "innerHtml": "In The Bay"
   },
   {
-    "tag": "p",
-    "innerHtml": "Let broad leagues dissever<br>  Him from yonder foam,<br>O God! to think man ever<br>  Comes too near his home—<em>Hood</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Let broad leagues dissever  \n  Him from yonder foam,  \nO God! to think man ever  \n  Comes too near his home—_Hood_  </code>"
   },
   {
     "tag": "p",
@@ -2980,8 +2960,8 @@
     "innerHtml": "On The Beach"
   },
   {
-    "tag": "p",
-    "innerHtml": "Toll for the brave,<br>  The grave that are no more;<br>All sunk beneath the wave<br>  Fast by their native shore—<em>Cowper</em>"
+    "tag": "pre",
+    "innerHtml": "<code>Toll for the brave,  \n  The grave that are no more;  \nAll sunk beneath the wave  \n  Fast by their native shore—_Cowper_  </code>"
   },
   {
     "tag": "p",
